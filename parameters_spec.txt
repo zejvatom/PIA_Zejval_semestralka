@@ -1,0 +1,14 @@
+m [kg] - mass of the car
+vmax [m/s] - max speed
+mi [1] - tyre friction coefficient
+h [mm] - height of the COG
+L [mm] - wheelbase
+T [mm] - track of the car
+xCOG [1] - x COG position from front axle
+yCOG [1] - y COG position from right side
+P [kW] - power of the motor
+WD [mm] - wheel diameter
+dr [1] - final drive ratio
+rpm [1] - rpm of the motor for max torque
+t_shift [s] - time to shift gear
+gear [1] - number of gears
